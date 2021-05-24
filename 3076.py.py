@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 import math  #importar a biblioteca math
 while True: #enquanto for verdade o programa será executado
     try:
